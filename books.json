@@ -1,0 +1,44 @@
+{
+  "livros": [
+    {
+      "id": "1",
+      "titulo": "Engenharia de Software",
+      "isbn": 123,
+      "emprestado": "Sim",
+      "numPaginas": "51",
+      "valor": "227.99"
+    },
+    {
+      "titulo": "Direito da Tecnologia da Informação",
+      "isbn": 159,
+      "emprestado": "Não",
+      "numPaginas": 35,
+      "valor": "10.9",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "titulo": "Eletrônica",
+      "isbn": 789,
+      "emprestado": "Sim",
+      "numPaginas": 77,
+      "valor": "150.99"
+    },
+    {
+      "id": 4,
+      "titulo": "Fundamentos de Engenharia",
+      "isbn": 147,
+      "emprestado": "Não",
+      "numPaginas": 100,
+      "valor": 19.9
+    },
+    {
+      "id": "5",
+      "titulo": "Logica de Programação e Automoção",
+      "isbn": 258,
+      "emprestado": "Sim",
+      "numPaginas": 90,
+      "valor": "65"
+    }
+  ]
+}
